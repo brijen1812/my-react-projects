@@ -11,8 +11,8 @@ function App() {
 
   return (
     <>
-      <h1 className="justify-center flex items-center text-3xl font-bold mt-12">
-        Learn about redux toolkit
+      <h1 className="justify-center text-white flex items-center text-3xl font-bold mt-12">
+        Todo with Redux Toolkit
       </h1>
       <AddTodo />
       <Todos />
